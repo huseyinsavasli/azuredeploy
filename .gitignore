@@ -1,2 +1,2 @@
-**.terraform/**/
-**modules/nodes/*.tfstate*
+**/.terraform/**/
+**/*.tfstate*
